@@ -90,7 +90,6 @@ markers:
   - {type: punctuation, offset: 48, content: 》, id: KR3k0025_CHANT_050-bkkpn17}
   - {type: punctuation, offset: 48, content: 。, id: KR3k0025_CHANT_050-bkkpn18}
   - {type: 'tls:seg', offset: 48, content: '', id: KR3k0025_CHANT_050-1a.13}
-  - {type: substitution, offset: 48, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 52, content: 。, id: KR3k0025_CHANT_050-bkkpn19}
   - {type: 'tls:seg', offset: 52, content: '', id: KR3k0025_CHANT_050-1a.14}
   - {type: punctuation, offset: 52, content: 《, id: KR3k0025_CHANT_050-bkkpn20}
@@ -201,7 +200,6 @@ markers:
   - {type: 'tls:seg', offset: 233, content: '', id: KR3k0025_CHANT_050-1a.45}
   - {type: punctuation, offset: 237, content: ，, id: KR3k0025_CHANT_050-bkkpn71}
   - {type: 'tls:seg', offset: 237, content: '', id: KR3k0025_CHANT_050-1a.46}
-  - {type: substitution, offset: 240, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 241, content: 。, id: KR3k0025_CHANT_050-bkkpn72}
   - {type: 'tls:seg', offset: 241, content: '', id: KR3k0025_CHANT_050-1a.47}
   - {type: punctuation, offset: 241, content: 《, id: KR3k0025_CHANT_050-bkkpn73}
@@ -454,7 +452,6 @@ markers:
   - {type: punctuation, offset: 633, content: 》, id: KR3k0025_CHANT_050-bkkpn201}
   - {type: punctuation, offset: 633, content: 。, id: KR3k0025_CHANT_050-bkkpn202}
   - {type: 'tls:seg', offset: 633, content: '', id: KR3k0025_CHANT_050-3a.35}
-  - {type: substitution, offset: 633, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 637, content: ：, id: KR3k0025_CHANT_050-bkkpn203}
   - {type: punctuation, offset: 637, content: 「, id: KR3k0025_CHANT_050-bkkpn204}
   - {type: punctuation, offset: 642, content: 。, id: KR3k0025_CHANT_050-bkkpn205}
@@ -483,7 +480,6 @@ markers:
   - {type: page-break, offset: 674, content: '', id: KR3k0025_WYG_050-11a, image: WYG0931/WYG0931-0369c.png}
   - {type: variant, offset: 679, length: 1, content: 錄, WYG: 録}
   - {type: variant, offset: 679, length: 1, content: 錄, krp: 録}
-  - {type: substitution, offset: 679, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 680, content: ，, id: KR3k0025_CHANT_050-bkkpn218}
   - {type: 'tls:seg', offset: 680, content: '', id: KR3k0025_CHANT_050-3a.42}
   - {type: variant, offset: 683, length: 0, content: '', WYG: 逺}
@@ -518,7 +514,6 @@ markers:
   - {type: 'tls:seg', offset: 700, content: '', id: KR3k0025_CHANT_050-3a.47}
   - {type: variant, offset: 702, length: 3, content: 彫飾並, WYG: 嫌其夫察之亦不疑也}
   - {type: variant, offset: 702, length: 3, content: 彫飾並, krp: 嫌其夫察之亦不疑也}
-  - {type: substitution, offset: 702, original: 彫, replacement: 雕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1528}}
   - {type: punctuation, offset: 704, content: 。, id: KR3k0025_CHANT_050-bkkpn225}
   - {type: 'tls:seg', offset: 704, content: '', id: KR3k0025_CHANT_050-3a.48}
   - {type: punctuation, offset: 707, content: 。, id: KR3k0025_CHANT_050-bkkpn226}
@@ -541,21 +536,18 @@ markers:
   - {type: 'tls:seg', offset: 737, content: '', id: KR3k0025_CHANT_050-3a.54}
   - {type: punctuation, offset: 742, content: ，, id: KR3k0025_CHANT_050-bkkpn234}
   - {type: 'tls:seg', offset: 742, content: '', id: KR3k0025_CHANT_050-3a.55}
-  - {type: substitution, offset: 744, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 748, content: 。, id: KR3k0025_CHANT_050-bkkpn235}
   - {type: 'tls:seg', offset: 748, content: '', id: KR3k0025_CHANT_050-3a.56}
   - {type: punctuation, offset: 748, content: 《, id: KR3k0025_CHANT_050-bkkpn236}
   - {type: punctuation, offset: 752, content: 》, id: KR3k0025_CHANT_050-bkkpn237}
   - {type: punctuation, offset: 752, content: 。, id: KR3k0025_CHANT_050-bkkpn238}
   - {type: 'tls:seg', offset: 752, content: '', id: KR3k0025_CHANT_050-3a.57}
-  - {type: substitution, offset: 757, original: 毓, replacement: 育, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3878}}
   - {type: punctuation, offset: 759, content: ：, id: KR3k0025_CHANT_050-bkkpn239}
   - {type: punctuation, offset: 759, content: 「, id: KR3k0025_CHANT_050-bkkpn240}
   - {type: punctuation, offset: 765, content: ，, id: KR3k0025_CHANT_050-bkkpn241}
   - {type: 'tls:seg', offset: 765, content: '', id: KR3k0025_CHANT_050-3a.58}
   - {type: punctuation, offset: 770, content: ，, id: KR3k0025_CHANT_050-bkkpn242}
   - {type: 'tls:seg', offset: 770, content: '', id: KR3k0025_CHANT_050-3a.59}
-  - {type: substitution, offset: 772, original: 啗, replacement: 啖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2052}}
   - {type: punctuation, offset: 774, content: 。, id: KR3k0025_CHANT_050-bkkpn243}
   - {type: 'tls:seg', offset: 774, content: '', id: KR3k0025_CHANT_050-3a.60}
   - {type: punctuation, offset: 774, content: 《, id: KR3k0025_CHANT_050-bkkpn244}
@@ -723,7 +715,6 @@ markers:
   - {type: variant, offset: 1041, length: 23, content: 華詔天下公私文翰並宜實錄泗州刺史司馬幼之文表華, krp: ''}
   - {type: punctuation, offset: 1042, content: ，, id: KR3k0025_CHANT_050-bkkpn331}
   - {type: 'tls:seg', offset: 1042, content: '', id: KR3k0025_CHANT_050-3a.108}
-  - {type: substitution, offset: 1052, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 1053, content: 。, id: KR3k0025_CHANT_050-bkkpn332}
   - {type: 'tls:seg', offset: 1053, content: '', id: KR3k0025_CHANT_050-3a.109}
   - {type: punctuation, offset: 1061, content: ，, id: KR3k0025_CHANT_050-bkkpn333}
@@ -891,11 +882,9 @@ markers:
   - {type: punctuation, offset: 1313, content: 。, id: KR3k0025_CHANT_050-bkkpn413}
   - {type: 'tls:seg', offset: 1313, content: '', id: KR3k0025_CHANT_050-4a.13}
   - {type: punctuation, offset: 1316, content: 《, id: KR3k0025_CHANT_050-bkkpn414}
-  - {type: substitution, offset: 1320, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0294}}
   - {type: punctuation, offset: 1321, content: 》, id: KR3k0025_CHANT_050-bkkpn415}
   - {type: punctuation, offset: 1321, content: 。, id: KR3k0025_CHANT_050-bkkpn416}
   - {type: 'tls:seg', offset: 1321, content: '', id: KR3k0025_CHANT_050-4a.14}
-  - {type: substitution, offset: 1332, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: punctuation, offset: 1357, content: 。, id: KR3k0025_CHANT_050-bkkpn417}
   - {type: 'tls:seg', offset: 1357, content: '', id: KR3k0025_CHANT_050-4a.15}
   - {type: punctuation, offset: 1359, content: 《, id: KR3k0025_CHANT_050-bkkpn418}
@@ -1093,7 +1082,6 @@ markers:
   - {type: variant, offset: 1643, length: 0, content: '', krp: 連璧王戎神彩秀徹視日不眩裴楷見而目之曰戎眼爛爛如巖下電裴楷風神高邁容儀俊爽時人謂之玉人衛玠風神秀異見者}
   - {type: variant, offset: 1644, length: 12, content: 無名之樸老子史崔洪手不執, WYG: 為玉人王濟俊爽有風姿每見玠輒嘆曰}
   - {type: variant, offset: 1644, length: 12, content: 無名之樸老子史崔洪手不執, krp: 為玉人王濟俊爽有風姿每見玠輒嘆曰}
-  - {type: substitution, offset: 1647, original: 樸, replacement: 朴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3880}}
   - {type: punctuation, offset: 1648, content: 。, id: KR3k0025_CHANT_050-bkkpn507}
   - {type: 'tls:seg', offset: 1648, content: '', id: KR3k0025_CHANT_050-7a.4}
   - {type: punctuation, offset: 1648, content: 《, id: KR3k0025_CHANT_050-bkkpn508}
@@ -1116,13 +1104,11 @@ markers:
   - {type: variant, offset: 1662, length: 2, content: 斲雕, WYG: 王衍神姿高徹如瑶林瓊木自然風塵表物晉書王戎顧榮少有珪璋符采爽徹五行晉書王衍每持玉柄麈尾與手同色晉王衍王羲之見杜乂而目之曰膚若凝脂眼如㸃漆此神仙中人也晉書本傳王恭美姿儀人目之云濯濯如春月栁晉王恭桓𤣥曰劉裕風骨不常蓋人傑也晉紀褚彦囘美儀貌善容止俯仰進退咸有風則每朝㑹百僚國使莫不延首目送之宋書本傳姿貌修潔與圭璧等質王智宋紀齊和士開曰琅琊王儼眼光奕奕數歩射人陳紀李繪儀貌端偉邢晏曰若披雲霧如對珠玉北史李渾風神洒落南史宋璟風度凝逺唐書本傳王彧美風姿}
   - {type: page-break, offset: 1662, content: '', id: KR3k0025_WYG_050-20b, image: WYG0931/WYG0931-0374b.png}
   - {type: variant, offset: 1662, length: 2, content: 斲雕, krp: 王衍神姿高徹如瑶林瓊木自然風塵表物晉書王戎顧榮少有珪璋符采爽徹五行晉書王衍每持玉柄麈尾與手同色晉王衍王羲之見杜乂而目之曰膚若凝脂眼如㸃漆此神仙中人也晉書本傳王恭美姿儀人目之云濯濯如春月栁晉王恭桓𤣥曰劉裕風骨不常蓋人傑也晉紀褚彦囘美儀貌善容止俯仰進退咸有風則每朝㑹百僚國使莫不延首目送之宋書本傳姿貌修潔與圭璧等質王智宋紀齊和士開曰琅琊王儼眼光奕奕數歩射人陳紀李繪儀貌端偉邢晏曰若披雲霧如對珠玉北史李渾風神洒落南史宋璟風度凝逺唐書本傳王彧美風姿}
-  - {type: substitution, offset: 1662, original: 斲, replacement: 斫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1805}}
   - {type: variant, offset: 1665, length: 1, content: 樸, WYG: 一時推許袁粲見之嘆曰景文非但風流可恱乃哺歠亦復可觀宋書本傳上嘗陳樂於勤政樓下垂簾觀之兵部侍郎盧絢謂上已起垂鞭按轡横過樓下絢風標清粹上目送之唐𤣥宗李義琛神情爽㧞唐書本傳帝每用人必曰風度能如九齡否唐書張九齡日角珠庭非庸人相唐李珏郭子儀風姿若神人望之岩岩如華山郭子儀家傳鄭畋姿采如峙玉蕭遇風采整峭崔澹舉止秀峙時謂玉而冠者並唐書本傳孔季翔永昌初擢制科陳子昂常稱其神清韻逺可比衛玠唐書房琯見徳秀歎曰見紫芝眉宇使人名利之心都盡唐元徳秀姿宇魁秀唐書魏謩崔逺風姿峻整世目為飣坐梨新唐書本傳傳記衛玠從豫章下都人久聞其姿容觀者如堵牆見裴叔則如玉山上行光照映人山公曰嵇叔夜之為人也岩岩若孤松之獨立其醉也傀俄若玉山之將崩時人目王右軍飄如遊雲矯若遊龍岩岩清峙壁立千仞並世說張緒少而閒雅風流吐納觀者忘疲永明主見靈和殿前栁條嫩弱披靡可愛嗟賞曰此楊栁風流可愛似張緒少年楊松玠談藪唐蔣凝美風標每到朝士家以為祥瑞朝士中號為玉筍班北夢瑣言李白神氣高朗軒軒若霞舉酉陽雜爼集情純潔而罔薉兮姿盛質而無愆金相玉質並楚辭天姿玉裕應瑒建章臺詩江}
   - {type: page-break, offset: 1665, content: '', id: KR3k0025_WYG_050-21a, image: WYG0931/WYG0931-0374c.png}
   - {type: page-break, offset: 1665, content: '', id: KR3k0025_WYG_050-21b, image: WYG0931/WYG0931-0374d.png}
   - {type: page-break, offset: 1665, content: '', id: KR3k0025_WYG_050-22a, image: WYG0931/WYG0931-0375a.png}
   - {type: variant, offset: 1665, length: 1, content: 樸, krp: 一時推許袁粲見之嘆曰景文非但風流可恱乃哺歠亦復可觀宋書本傳上嘗陳樂於勤政樓下垂簾觀之兵部侍郎盧絢謂上已起垂鞭按轡横過樓下絢風標清粹上目送之唐𤣥宗李義琛神情爽㧞唐書本傳帝每用人必曰風度能如九齡否唐書張九齡日角珠庭非庸人相唐李珏郭子儀風姿若神人望之岩岩如華山郭子儀家傳鄭畋姿采如峙玉蕭遇風采整峭崔澹舉止秀峙時謂玉而冠者並唐書本傳孔季翔永昌初擢制科陳子昂常稱其神清韻逺可比衛玠唐書房琯見徳秀歎曰見紫芝眉宇使人名利之心都盡唐元徳秀姿宇魁秀唐書魏謩崔逺風姿峻整世目為飣坐梨新唐書本傳傳記衛玠從豫章下都人久聞其姿容觀者如堵牆見裴叔則如玉山上行光照映人山公曰嵇叔夜之為人也岩岩若孤松之獨立其醉也傀俄若玉山之將崩時人目王右軍飄如遊雲矯若遊龍岩岩清峙壁立千仞並世說張緒少而閒雅風流吐納觀者忘疲永明主見靈和殿前栁條嫩弱披靡可愛嗟賞曰此楊栁風流可愛似張緒少年楊松玠談藪唐蔣凝美風標每到朝士家以為祥瑞朝士中號為玉筍班北夢瑣言李白神氣高朗軒軒若霞舉酉陽雜爼集情純潔而罔薉兮姿盛質而無愆金相玉質並楚辭天姿玉裕應瑒建章臺詩江}
-  - {type: substitution, offset: 1665, original: 樸, replacement: 朴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3880}}
   - {type: punctuation, offset: 1666, content: 。, id: KR3k0025_CHANT_050-bkkpn515}
   - {type: 'tls:seg', offset: 1666, content: '', id: KR3k0025_CHANT_050-7a.9}
   - {type: punctuation, offset: 1666, content: 《, id: KR3k0025_CHANT_050-bkkpn516}
@@ -1172,7 +1158,6 @@ markers:
   - {type: punctuation, offset: 1701, content: 。, id: KR3k0025_CHANT_050-bkkpn526}
   - {type: punctuation, offset: 1701, content: 」, id: KR3k0025_CHANT_050-bkkpn527}
   - {type: 'tls:seg', offset: 1701, content: '', id: KR3k0025_CHANT_050-8a.7}
-  - {type: substitution, offset: 1702, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 1703, content: ，, id: KR3k0025_CHANT_050-bkkpn528}
   - {type: 'tls:seg', offset: 1703, content: '', id: KR3k0025_CHANT_050-8a.8}
   - {type: punctuation, offset: 1707, content: 。, id: KR3k0025_CHANT_050-bkkpn529}
@@ -1181,10 +1166,8 @@ markers:
   - {type: punctuation, offset: 1710, content: 》, id: KR3k0025_CHANT_050-bkkpn531}
   - {type: punctuation, offset: 1710, content: 。, id: KR3k0025_CHANT_050-bkkpn532}
   - {type: 'tls:seg', offset: 1710, content: '', id: KR3k0025_CHANT_050-8a.10}
-  - {type: substitution, offset: 1711, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 1714, content: ，, id: KR3k0025_CHANT_050-bkkpn533}
   - {type: 'tls:seg', offset: 1714, content: '', id: KR3k0025_CHANT_050-8a.11}
-  - {type: substitution, offset: 1715, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 1718, content: 。, id: KR3k0025_CHANT_050-bkkpn534}
   - {type: 'tls:seg', offset: 1718, content: '', id: KR3k0025_CHANT_050-8a.12}
   - {type: punctuation, offset: 1718, content: 《, id: KR3k0025_CHANT_050-bkkpn535}
@@ -1204,7 +1187,6 @@ markers:
   - {type: variant, offset: 1735, length: 7, content: 而後厭然揜其不, krp: 遏惡揚}
   - {type: punctuation, offset: 1739, content: ，, id: KR3k0025_CHANT_050-bkkpn540}
   - {type: 'tls:seg', offset: 1739, content: '', id: KR3k0025_CHANT_050-8a.16}
-  - {type: substitution, offset: 1739, original: 揜, replacement: 掩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3495}}
   - {type: punctuation, offset: 1743, content: ，, id: KR3k0025_CHANT_050-bkkpn541}
   - {type: 'tls:seg', offset: 1743, content: '', id: KR3k0025_CHANT_050-8a.17}
   - {type: variant, offset: 1743, length: 512, content: 而著其善記大學互入有忌憚色取仁而行違居之不疑語顏淵子居之似忠信行之似廉潔眾皆說之自以為是而不可與入堯舜之道故曰德之賊孟盡心下利心無足而佯無欲者也行偽險穢而強高言謹愨者也荀非十二子欲讎偽者必假真揚有人則作之無人則輟之之謂偽揚君子史鄭伯有既死使太史命伯石為卿辭太史退則請命焉請太史更命已復命之又辭如是三乃受策入拜子產是以惡其為人也左襄三十此飾說也史虞卿傳公孫弘習文法吏事緣飾以儒術西漢傳符氏卒群臣皆含辛以為淚通監晉安紀晉王廣彌自矯飾上與后嘗幸其第廣悉屏匿美姬於別室唯留老醜者衣以縵綵給事左右屏帳改用縑素故絕樂器之絃不令拂去塵埃上見之以為不好聲色還宮以語侍臣意甚喜通監隋高祖韋執誼初為叔文所引用深附之既得位欲掩其跡且迫於公議故時時為異同通監唐順宗傳記飾貌者不情大戴禮文王篇齊賀曰公孫洪內服貂蟬外衣麻枲內廚五鼎外膳一肴於是朝廷疑其矯西京雜記集誦六藝以飾姦潘安仁賦色厲內荏行僻心堅卑辭作偽陳子昂集今之卮其貌蠟其言以求賈柳文溷鼠虛求潔元微之集苟作偽而心拙必代斲而手傷白樂天本朝鞠躬便僻不足為恭長號流涕不足為哀弊衣糲食不足為儉涑水迂書飲食之初以為味也適口斯善矣世人取果餌而刻鏤之朱綠之以為盤桉之玩豈非以目食者乎同上夫面垢不忘洗衣垢不忘澣此, WYG: 易彰}
@@ -1237,7 +1219,6 @@ markers:
   - {type: 'tls:seg', offset: 1774, content: '', id: KR3k0025_CHANT_050-9a.4}
   - {type: punctuation, offset: 1779, content: ，, id: KR3k0025_CHANT_050-bkkpn555}
   - {type: 'tls:seg', offset: 1779, content: '', id: KR3k0025_CHANT_050-9a.5}
-  - {type: substitution, offset: 1779, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 1783, content: ，, id: KR3k0025_CHANT_050-bkkpn556}
   - {type: 'tls:seg', offset: 1783, content: '', id: KR3k0025_CHANT_050-9a.6}
   - {type: punctuation, offset: 1787, content: ，, id: KR3k0025_CHANT_050-bkkpn557}
@@ -1256,14 +1237,12 @@ markers:
   - {type: 'tls:seg', offset: 1805, content: '', id: KR3k0025_CHANT_050-9a.10}
   - {type: punctuation, offset: 1815, content: ，, id: KR3k0025_CHANT_050-bkkpn567}
   - {type: 'tls:seg', offset: 1815, content: '', id: KR3k0025_CHANT_050-9a.11}
-  - {type: substitution, offset: 1816, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 1827, content: 。, id: KR3k0025_CHANT_050-bkkpn568}
   - {type: 'tls:seg', offset: 1827, content: '', id: KR3k0025_CHANT_050-9a.12}
   - {type: punctuation, offset: 1827, content: 《, id: KR3k0025_CHANT_050-bkkpn569}
   - {type: punctuation, offset: 1832, content: 》, id: KR3k0025_CHANT_050-bkkpn570}
   - {type: punctuation, offset: 1832, content: 。, id: KR3k0025_CHANT_050-bkkpn571}
   - {type: 'tls:seg', offset: 1832, content: '', id: KR3k0025_CHANT_050-9a.13}
-  - {type: substitution, offset: 1834, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 1839, content: 。, id: KR3k0025_CHANT_050-bkkpn572}
   - {type: 'tls:seg', offset: 1839, content: '', id: KR3k0025_CHANT_050-9a.14}
   - {type: punctuation, offset: 1839, content: 《, id: KR3k0025_CHANT_050-bkkpn573}
@@ -1274,7 +1253,6 @@ markers:
   - {type: 'tls:seg', offset: 1845, content: '', id: KR3k0025_CHANT_050-9a.16}
   - {type: punctuation, offset: 1850, content: ，, id: KR3k0025_CHANT_050-bkkpn577}
   - {type: 'tls:seg', offset: 1850, content: '', id: KR3k0025_CHANT_050-9a.17}
-  - {type: substitution, offset: 1852, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 1853, content: 。, id: KR3k0025_CHANT_050-bkkpn578}
   - {type: 'tls:seg', offset: 1853, content: '', id: KR3k0025_CHANT_050-9a.18}
   - {type: punctuation, offset: 1853, content: 《, id: KR3k0025_CHANT_050-bkkpn579}
@@ -1307,7 +1285,6 @@ markers:
   - {type: 'tls:seg', offset: 1892, content: '', id: KR3k0025_CHANT_050-10a.12}
   - {type: punctuation, offset: 1897, content: 。, id: KR3k0025_CHANT_050-bkkpn591}
   - {type: 'tls:seg', offset: 1897, content: '', id: KR3k0025_CHANT_050-10a.13}
-  - {type: substitution, offset: 1898, original: 產, replacement: 産, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4555}}
   - {type: punctuation, offset: 1906, content: 。, id: KR3k0025_CHANT_050-bkkpn592}
   - {type: 'tls:seg', offset: 1906, content: '', id: KR3k0025_CHANT_050-10a.14}
   - {type: punctuation, offset: 1906, content: 《, id: KR3k0025_CHANT_050-bkkpn593}
@@ -1330,7 +1307,6 @@ markers:
   - {type: 'tls:seg', offset: 1934, content: '', id: KR3k0025_CHANT_050-10a.20}
   - {type: punctuation, offset: 1937, content: ，, id: KR3k0025_CHANT_050-bkkpn605}
   - {type: 'tls:seg', offset: 1937, content: '', id: KR3k0025_CHANT_050-10a.21}
-  - {type: substitution, offset: 1937, original: 群, replacement: 群, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4365}}
   - {type: punctuation, offset: 1945, content: 。, id: KR3k0025_CHANT_050-bkkpn606}
   - {type: 'tls:seg', offset: 1945, content: '', id: KR3k0025_CHANT_050-10a.22}
   - {type: punctuation, offset: 1945, content: 《, id: KR3k0025_CHANT_050-bkkpn607}
@@ -1353,7 +1329,6 @@ markers:
   - {type: 'tls:seg', offset: 1986, content: '', id: KR3k0025_CHANT_050-10a.30}
   - {type: punctuation, offset: 1992, content: 。, id: KR3k0025_CHANT_050-bkkpn617}
   - {type: 'tls:seg', offset: 1992, content: '', id: KR3k0025_CHANT_050-10a.31}
-  - {type: substitution, offset: 1993, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4557}}
   - {type: punctuation, offset: 1998, content: ，, id: KR3k0025_CHANT_050-bkkpn618}
   - {type: 'tls:seg', offset: 1998, content: '', id: KR3k0025_CHANT_050-10a.32}
   - {type: punctuation, offset: 2004, content: 。, id: KR3k0025_CHANT_050-bkkpn619}
@@ -1431,7 +1406,6 @@ markers:
   - {type: 'tls:seg', offset: 2124, content: '', id: KR3k0025_CHANT_050-12a.6}
   - {type: punctuation, offset: 2128, content: 。, id: KR3k0025_CHANT_050-bkkpn655}
   - {type: 'tls:seg', offset: 2128, content: '', id: KR3k0025_CHANT_050-12a.7}
-  - {type: substitution, offset: 2131, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 2132, content: 。, id: KR3k0025_CHANT_050-bkkpn656}
   - {type: 'tls:seg', offset: 2132, content: '', id: KR3k0025_CHANT_050-12a.8}
   - {type: punctuation, offset: 2132, content: 《, id: KR3k0025_CHANT_050-bkkpn657}
@@ -1452,10 +1426,8 @@ markers:
   - {type: punctuation, offset: 2158, content: 》, id: KR3k0025_CHANT_050-bkkpn666}
   - {type: punctuation, offset: 2158, content: 。, id: KR3k0025_CHANT_050-bkkpn667}
   - {type: 'tls:seg', offset: 2158, content: '', id: KR3k0025_CHANT_050-12a.15}
-  - {type: substitution, offset: 2160, original: 偽, replacement: 僞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4358}}
   - {type: punctuation, offset: 2164, content: ，, id: KR3k0025_CHANT_050-bkkpn668}
   - {type: 'tls:seg', offset: 2164, content: '', id: KR3k0025_CHANT_050-12a.16}
-  - {type: substitution, offset: 2166, original: 斲, replacement: 斫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1805}}
   - {type: punctuation, offset: 2170, content: 。, id: KR3k0025_CHANT_050-bkkpn669}
   - {type: 'tls:seg', offset: 2170, content: '', id: KR3k0025_CHANT_050-12a.17}
   - {type: punctuation, offset: 2173, content: 。, id: KR3k0025_CHANT_050-bkkpn670}
@@ -1483,7 +1455,6 @@ markers:
   - {type: punctuation, offset: 2216, content: 。, id: KR3k0025_CHANT_050-bkkpn679}
   - {type: 'tls:seg', offset: 2216, content: '', id: KR3k0025_CHANT_050-13a.10}
   - {type: punctuation, offset: 2225, content: 、, id: KR3k0025_CHANT_050-bkkpn680}
-  - {type: substitution, offset: 2226, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4558}}
   - {type: punctuation, offset: 2228, content: ，, id: KR3k0025_CHANT_050-bkkpn681}
   - {type: 'tls:seg', offset: 2228, content: '', id: KR3k0025_CHANT_050-13a.11}
   - {type: punctuation, offset: 2234, content: ，, id: KR3k0025_CHANT_050-bkkpn682}
@@ -1494,7 +1465,6 @@ markers:
   - {type: 'tls:seg', offset: 2243, content: '', id: KR3k0025_CHANT_050-13a.14}
   - {type: punctuation, offset: 2249, content: ，, id: KR3k0025_CHANT_050-bkkpn685}
   - {type: 'tls:seg', offset: 2249, content: '', id: KR3k0025_CHANT_050-13a.15}
-  - {type: substitution, offset: 2253, original: 澣, replacement: 浣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1993}}
   - {type: punctuation, offset: 2254, content: ，, id: KR3k0025_CHANT_050-bkkpn686}
   - {type: 'tls:seg', offset: 2254, content: '', id: KR3k0025_CHANT_050-13a.16}
   - {type: variant, offset: 2257, length: 5, content: 至情也今也, WYG: 善美人之功記子}
@@ -1546,7 +1516,6 @@ markers:
   - {type: xml-element, offset: 2314, content: '', id: KR3k0025_CHANT_050-bkkxmlele62}
   - {type: xml-element, offset: 2314, content: '', id: KR3k0025_CHANT_050-bkkxmlele63}
   - {type: 'tls:seg', offset: 2314, content: '', id: KR3k0025_CHANT_050-14a.8}
-  - {type: substitution, offset: 2314, original: 叚, replacement: 假, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1105}}
   - {type: punctuation, offset: 2323, content: ，, id: KR3k0025_CHANT_050-bkkpn704}
   - {type: 'tls:seg', offset: 2323, content: '', id: KR3k0025_CHANT_050-14a.9}
   - {type: variant, offset: 2323, length: 24, content: 泄柳閉門而不納是皆已甚孟滕文公互入已甚陳仲子以兄, WYG: 美史記本傳曹丘生謂季布曰僕將捉足下}
@@ -1586,7 +1555,6 @@ markers:
   - {type: 'tls:seg', offset: 2386, content: '', id: KR3k0025_CHANT_050-14a.19}
   - {type: variant, offset: 2391, length: 29, content: 晻暗同世故曰盜名不如盜貨田仲史鰌不如盜也荀不苟史公孫洪至宰, WYG: 梁楚間漢書丙吉為丞}
   - {type: variant, offset: 2391, length: 29, content: 晻暗同世故曰盜名不如盜貨田仲史鰌不如盜也荀不苟史公孫洪至宰, krp: 梁楚間漢書丙吉為丞}
-  - {type: substitution, offset: 2391, original: 晻, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1353}}
   - {type: punctuation, offset: 2392, content: 。, id: KR3k0025_CHANT_050-bkkpn725}
   - {type: 'tls:seg', offset: 2392, content: '', id: KR3k0025_CHANT_050-14a.20}
   - {type: punctuation, offset: 2394, content: 。, id: KR3k0025_CHANT_050-bkkpn726}
@@ -1623,7 +1591,6 @@ markers:
   - {type: variant, offset: 2433, length: 2, content: 石建, krp: 禰衡稱劉表}
   - {type: variant, offset: 2436, length: 4, content: 澣衣周仁, WYG: 美盈口漢獻紀房𤣥齡曰餘人不足惜至於杜如晦王佐之才大王欲經營四方非如晦不可世民驚曰微公言幾失之唐高祖禮部侍郎崔郾試進士公卿咸祖道武陵後至謂郾曰君方}
   - {type: variant, offset: 2436, length: 4, content: 澣衣周仁, krp: 美盈口漢獻紀房𤣥齡曰餘人不足惜至於杜如晦王佐之才大王欲經營四方非如晦不可世民驚曰微公言幾失之唐高祖禮部侍郎崔郾試進士公卿咸祖道武陵後至謂郾曰君方}
-  - {type: substitution, offset: 2436, original: 澣, replacement: 浣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1993}}
   - {type: punctuation, offset: 2438, content: ，, id: KR3k0025_CHANT_050-bkkpn740}
   - {type: 'tls:seg', offset: 2438, content: '', id: KR3k0025_CHANT_050-15a.8}
   - {type: variant, offset: 2441, length: 2, content: 垢汙, WYG: 天子求奇才敢獻所益出袖中書搢笏為郾讀之乃杜牧所賦阿房宫武陵曰請以第一人處之郾謝已得其人至第五郾未得武陵曰不爾宜以賦見還新唐書吳武陵傳集東野吃吃說足下不離口韓文栁惟深充江東路判官出巡其有非常之政裕於人者必舉其課績又以文采殷勤歌詠之俾其風謡頌聲聞于他部達于京師而後已栁丈栁渾行狀本朝唐楊敬之贈項斯詩曰幾度見詩詩盡好及觀標格過於詩平生不解藏人善到處相逢說項斯南部新書錢易撰勸善史子文無後何以勸善叔向社稷之臣也猶將十世宥之以勸能者並左蔽賢經臧文仲其竊位者與知栁下惠之賢而不與立也語子言無實不祥不祥之實蔽賢者當之孟史夫十室之邑必有忠信三人並行厥有我師今或闔郡至不薦一人是積行之}
@@ -1804,7 +1771,6 @@ markers:
   - {type: 'tls:seg', offset: 2604, content: '', id: KR3k0025_CHANT_050-18a.8}
   - {type: variant, offset: 2604, length: 18, content: 不庭辯嘗與汲黯請間先發之弘推其後通監, WYG: 治助竟棄市}
   - {type: variant, offset: 2604, length: 18, content: 不庭辯嘗與汲黯請間先發之弘推其後通監, krp: 治助竟棄市}
-  - {type: substitution, offset: 2606, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4109}}
   - {type: punctuation, offset: 2607, content: 。, id: KR3k0025_CHANT_050-bkkpn793}
   - {type: 'tls:seg', offset: 2607, content: '', id: KR3k0025_CHANT_050-18a.9}
   - {type: punctuation, offset: 2613, content: ，, id: KR3k0025_CHANT_050-bkkpn794}
@@ -1875,7 +1841,6 @@ markers:
   - {type: 'tls:seg', offset: 2665, content: '', id: KR3k0025_CHANT_050-18a.20}
   - {type: punctuation, offset: 2670, content: ，, id: KR3k0025_CHANT_050-bkkpn811}
   - {type: 'tls:seg', offset: 2670, content: '', id: KR3k0025_CHANT_050-18a.21}
-  - {type: substitution, offset: 2676, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 2677, content: ，, id: KR3k0025_CHANT_050-bkkpn812}
   - {type: 'tls:seg', offset: 2677, content: '', id: KR3k0025_CHANT_050-18a.22}
   - {type: variant, offset: 2681, length: 0, content: '', WYG: 交駭物聽唐徳宗徳宗欲遂相裴延齡城顯語曰延齡為相吾當取白麻壊之唐書陽城傳元稹倚宦官知制誥武元衡厭鄙之食𤓰蠅集其上元衡揮以扇曰適從何處來遽集於此唐書武元衡傳傳記水名盜泉仲尼不漱語撰考䜟耳聞所惡不如無聞目見所惡不如無見吕氏春秋盧奐累任大郡凡治姦惡既斷罪又以所犯刻石竪其門時謂記惡碑王元祐開元天寳遺事鍾離意曰孔子忍渴於盜泉之水曾參囘車於勝母之閭惡其名也東漢紀集要領不足以膏蕭斧名字不足以汙簡墨陳琳檄鷹揚虎視肅清違慢傅咸中丞箴剛腸疾惡山巨源絶交書簡上霜飛筆端風起崔彖御史箴董卓稱亂徒藉羣雄之手王莽偷安卒成光武之業故市耀臍燈府傳飲器梁任孝恭檄文𢎞量不以容非文選王文憲集序渴不飲盜泉水熱不息惡木隂猛虎行疾惡懐剛腸杜詩人其人火其書廬其居韓原道守正為心疾邪不懼栁文魯司冦三日之間戮正卯於兩觀之下漢司𨽻一旬之内取張朔於合柱之中李義山文聞惡若已讐栁文暴虐得於天生憸悍著於心中扺冐刑憲縱盜胷臆法所惡者爾皆為之白晝九衢指憎萬手杜牧之膚革既平雖疥癬而}
@@ -2030,7 +1995,6 @@ markers:
   - {type: 'tls:seg', offset: 2839, content: '', id: KR3k0025_CHANT_050-22a.10}
   - {type: punctuation, offset: 2843, content: ，, id: KR3k0025_CHANT_050-bkkpn870}
   - {type: 'tls:seg', offset: 2843, content: '', id: KR3k0025_CHANT_050-22a.11}
-  - {type: substitution, offset: 2846, original: 煖, replacement: 暖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1352}}
   - {type: punctuation, offset: 2847, content: ；, id: KR3k0025_CHANT_050-bkkpn871}
   - {type: 'tls:seg', offset: 2847, content: '', id: KR3k0025_CHANT_050-22a.12}
   - {type: punctuation, offset: 2851, content: ，, id: KR3k0025_CHANT_050-bkkpn872}
@@ -2203,8 +2167,6 @@ markers:
   - {type: 'tls:seg', offset: 3068, content: '', id: KR3k0025_CHANT_050-27a.9}
   - {type: punctuation, offset: 3070, content: ，, id: KR3k0025_CHANT_050-bkkpn952}
   - {type: 'tls:seg', offset: 3070, content: '', id: KR3k0025_CHANT_050-27a.10}
-  - {type: substitution, offset: 3070, original: 盪, replacement: 蕩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0674}}
-  - {type: substitution, offset: 3071, original: 盪, replacement: 蕩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0674}}
   - {type: punctuation, offset: 3077, content: ，, id: KR3k0025_CHANT_050-bkkpn953}
   - {type: 'tls:seg', offset: 3077, content: '', id: KR3k0025_CHANT_050-27a.11}
   - {type: punctuation, offset: 3081, content: 。, id: KR3k0025_CHANT_050-bkkpn954}
@@ -2236,7 +2198,6 @@ markers:
   - {type: punctuation, offset: 3128, content: 。, id: KR3k0025_CHANT_050-bkkpn971}
   - {type: 'tls:seg', offset: 3128, content: '', id: KR3k0025_CHANT_050-27a.21}
   - {type: punctuation, offset: 3128, content: 《, id: KR3k0025_CHANT_050-bkkpn972}
-  - {type: substitution, offset: 3131, original: 毓, replacement: 育, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3878}}
   - {type: punctuation, offset: 3133, content: 》, id: KR3k0025_CHANT_050-bkkpn973}
   - {type: punctuation, offset: 3133, content: 。, id: KR3k0025_CHANT_050-bkkpn974}
   - {type: 'tls:seg', offset: 3133, content: '', id: KR3k0025_CHANT_050-27a.22}
@@ -2264,7 +2225,6 @@ markers:
   - {type: punctuation, offset: 3162, content: 、, id: KR3k0025_CHANT_050-bkkpn986}
   - {type: punctuation, offset: 3166, content: ，, id: KR3k0025_CHANT_050-bkkpn987}
   - {type: 'tls:seg', offset: 3166, content: '', id: KR3k0025_CHANT_050-28a.4}
-  - {type: substitution, offset: 3166, original: 翫, replacement: 玩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0446}}
   - {type: punctuation, offset: 3176, content: 。, id: KR3k0025_CHANT_050-bkkpn988}
   - {type: 'tls:seg', offset: 3176, content: '', id: KR3k0025_CHANT_050-28a.5}
   - {type: punctuation, offset: 3176, content: 《, id: KR3k0025_CHANT_050-bkkpn989}
@@ -2371,4 +2331,4 @@ markers:
   - {type: punctuation, offset: 3349, content: 。, id: KR3k0025_CHANT_050-bkkpn1039}
   - {type: xml-element, offset: 3349, content: '', id: KR3k0025_CHANT_050-bkkxmlele140}
   back: []
-hash: sha256:151eb00618e745ca547c4d0db0f31587ea255fcdb81e5d1912883d07b6181979
+hash: sha256:3cbc83b91d3139115e83628cc8f2acc17cbcce919366c1aa808420309c730807
